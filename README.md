@@ -63,7 +63,7 @@ Data engineering, AI/ML, search, BI, cloud infrastructure, identity/security, pr
 
 ## Background
 
-MS Operations & Project Management + MBA from SNHU. BS Information Technology from Zulia State University. 26 certifications. Currently leading a team of senior and associate PMs with a multi-million dollar budget.
+MS Operations & Project Management + MBA. BS Information Technology. 26 certifications. Currently leading a team of senior and associate PMs with a multi-million dollar budget.
 
 ## Contact
 
