@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicholashidalgo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://nicholashidalgo.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="mailto:analytics@nicholashidalgo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/nicholashidalgo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://nicholashidalgo.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>&nbsp;
+  <a href="mailto:analytics@nicholashidalgo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -110,4 +110,4 @@ Most AI repos on GitHub are demos. Clean datasets, happy-path queries, no auth, 
 
 ### Background
 
-MS Operations & Project Management + MBA. BS Information Technology. 26 certifications. Currently leading a team of senior an
+MS Operations & Project Management + MBA. BS Information Technology from. 26 certifications. Currently leading a team of senior an
