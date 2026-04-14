@@ -30,25 +30,23 @@ My day job stack is Snowflake, Oracle, dbt, Power BI, Python, and SQL. The repos
 
 Most AI repos on GitHub are demos. Clean datasets, happy-path queries, no auth, no cost tracking, no governance. I've spent a decade inside messy enterprise systems, so I build for the mess.
 
-**[dbt-ai-patterns](#)** -- dbt packages for AI-ready data pipelines. Semantic layer definitions for LLM consumption, PII detection macros, data contracts for AI features, Snowflake Cortex integration. Built for the 60,000+ teams already running dbt who want AI without a replatform.
-
-**[ai-data-quality-toolkit](#)** -- Enterprise DQ frameworks applied to LLM outputs. Maps the six traditional dimensions (accuracy, completeness, consistency, timeliness, validity, uniqueness) to AI output validation. Python, dbt-style tests, ISO 5259 alignment. Most eval tools measure hallucination rates. This measures whether the output is actually fit for a business decision.
-
-**[ai-cost-guardian](#)** -- FinOps for AI at startup scale. Per-feature cost attribution, spend anomaly detection, budget alerting, ROI templates. Python + SQL + dashboards. The thing everyone worries about but nobody instruments.
-
-**[enterprise-text-to-sql](#)** -- NL-to-SQL for real schemas. Not academic benchmarks. Uses dbt docs for schema context, the Semantic Layer for disambiguation, cost estimation before execution, and row-level security awareness. GPT-4 solves 6% of enterprise SQL questions on Spider 2.0. That number is the whole motivation.
-
-**[ai-governance-starter](#)** -- AI governance for companies that aren't Google. Policy templates, risk frameworks simplified from NIST AI RMF, audit trails, vendor scorecards. Microsoft built theirs for Fortune 500. This is for everyone else.
+| Project | What It Does |
+|---------|-------------|
+| <a href="#"><img src="https://img.shields.io/badge/dbt--ai--patterns-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt-ai-patterns"></a> | dbt packages for AI-ready data pipelines. Semantic layer for LLM consumption, PII detection macros, data contracts, Snowflake Cortex integration. Built for the 60,000+ teams already running dbt who want AI without a replatform. |
+| <a href="#"><img src="https://img.shields.io/badge/ai--data--quality--toolkit-3776AB?style=flat-square&logo=python&logoColor=white" alt="ai-data-quality-toolkit"></a> | Enterprise DQ frameworks applied to LLM outputs. Maps six traditional dimensions (accuracy, completeness, consistency, timeliness, validity, uniqueness) to AI output validation. ISO 5259 alignment. Most eval tools measure hallucination rates. This measures whether the output is fit for a business decision. |
+| <a href="#"><img src="https://img.shields.io/badge/ai--cost--guardian-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="ai-cost-guardian"></a> | FinOps for AI at startup scale. Per-feature cost attribution, spend anomaly detection, budget alerting, ROI templates. The thing everyone worries about but nobody instruments. |
+| <a href="#"><img src="https://img.shields.io/badge/enterprise--text--to--sql-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="enterprise-text-to-sql"></a> | NL-to-SQL for real schemas. Uses dbt docs for schema context, the Semantic Layer for disambiguation, cost estimation before execution, and row-level security awareness. GPT-4 solves 6% of enterprise SQL questions on Spider 2.0. That number is the whole motivation. |
+| <a href="#"><img src="https://img.shields.io/badge/ai--governance--starter-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ai-governance-starter"></a> | AI governance for companies that aren't Google. Policy templates, risk frameworks simplified from NIST AI RMF, audit trails, vendor scorecards. Microsoft built theirs for Fortune 500. This is for everyone else. |
 
 ---
 
 ### Existing portfolio
 
-**[Subscription Financial Model](#)** -- Churn and revenue on KKBox data. PostgreSQL, dbt, Supabase, Streamlit. Cohort retention at 30/60/90 days, churn scoring, LTV. Dark-theme dashboard designed in Figma.
-
-**[Governed RAG + Text-to-SQL](#)** -- Business users query structured data in plain English with RBAC, audit logging, and governance guardrails. FastAPI, PostgreSQL, Qwen3-14B, Redis.
-
-**[Executive Financial KPI Dashboard](#)** -- Power BI, DAX, Snowflake. Drill-through, exception flags, automated refresh. Built for the C-suite.
+| Project | What It Does |
+|---------|-------------|
+| <a href="#"><img src="https://img.shields.io/badge/Subscription_Financial_Model-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Subscription Financial Model"></a> | Churn and revenue on KKBox data. PostgreSQL, dbt, Supabase, Streamlit. Cohort retention at 30/60/90 days, churn scoring, LTV. |
+| <a href="#"><img src="https://img.shields.io/badge/Governed_RAG_+_Text--to--SQL-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Governed RAG"></a> | Business users query structured data in plain English with RBAC, audit logging, and governance guardrails. FastAPI, PostgreSQL, Qwen3-14B, Redis. |
+| <a href="#"><img src="https://img.shields.io/badge/Executive_Financial_KPI_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Executive KPI Dashboard"></a> | Power BI, DAX, Snowflake. Drill-through, exception flags, automated refresh. Built for the C-suite. |
 
 ---
 
@@ -110,4 +108,12 @@ Most AI repos on GitHub are demos. Clean datasets, happy-path queries, no auth, 
 
 ### Background
 
-MS Operations & Project Management + MBA. BS Information Technology from. 26 certifications. Currently leading a team of senior an
+MS Operations & Project Management + MBA. BS Information Technology. 26 certifications. Currently leading a team of senior and associate PMs with a multi-million dollar budget.
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/nicholashidalgo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://nicholashidalgo.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>&nbsp;
+  <a href="mailto:analytics@nicholashidalgo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
