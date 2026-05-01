@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h1 align="center">Nicholas Hidalgo</h1>
+<h1 align="center">Nicholas J Hidalgo</h1>
 <p align="center">
   <strong>Data & Search Platform Products | AI Engineering | Enterprise Analytics</strong><br>
   Boston, MA
